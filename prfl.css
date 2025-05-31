@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(8, 8, 8);
+}
+
+#banner{
+ text-align: right;
+ display:flex;
+    justify-content: space-between;
+    background-color: rgb(50, 61, 46);  
+    width:100%;
+    box-shadow: 4px 2px 5px black;
+a{
+    text-decoration:none ;
+    color:azure;
+}
+    a:hover{
+        text-decoration:none;
+        color:chartreuse
+    }
+    
+}
+a:hover{
+    text-decoration:none;
+    color:rgb(255, 64, 0)
+}
+
+#name{
+color:aliceblue;
+    text-align:center;
+    display:flex;
+    background-color: rgb(109, 109, 109);
+    width:fill;
+    box-shadow: 0px 10px 30px black;
+}
+
+#details{
+    #d1{
+        width:50%;
+        margin-top: 5%;
+    }
+    #d2{
+        width:350px;
+        height:450px;
+        margin-top: 10%;
+        background-color: rgb(239, 234, 234);
+        box-shadow:-1px 0px 20px black;
+       
+    }
+    color:rgb(255, 255, 255);
+    display:flex;
+    justify-content: space-between;
+}
+   #bla{
+    height:500px;
+   background-color:rgb(15, 1, 1);
+    text-align: center;  
+    display:flex;
+    justify-content:space-between;
+    text-align: center;
+    margin-left: 25%;
+    
+   
+    }
+   #contact{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    height:500px;
+    margin-left: 20px;
+    margin-right: 20px;
+   
+   }
+   #project{
+    background-color:+rgb(238, 30, 30);
+border-radius: 20px;  
+width:50%;
+height:450px;
+margin-top: 20px;
+margin-left: 10px;
+}
+#bla2{
+    background-color: rgba(179, 149, 121, 0.414);
+    width:33.33%;
+    height:450px;
+    border-radius: 20px;
+    margin-top: 20px;
+margin-left: 5px;
+margin-right: 10px;
+}
+h2{color:red;}
+#skills{
+    background-color:rgba(255, 254, 254, 0.955);
+    width:50%;
+    height:450px;
+    margin-top: 20px;
+margin-left: 5px;
+    border-radius: 20px;
+  
+}
+#ab{
+    background-color: rgb(1, 6, 9);
+}
+button:hover{
+    color:white;
+
+    
+}
+#image{
+    
+    margin-top: 25px;
+}
+h1{
+    color:#d10b0bdd
+}
+#about{
+    background-color: beige;
+    height: 400px;;
+}
